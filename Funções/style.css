@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#input-container {
+    margin-bottom: 20px;
+}
+
+input[type="number"] {
+    width: 80px;
+    padding: 5px;
+    margin: 5px;
+}
